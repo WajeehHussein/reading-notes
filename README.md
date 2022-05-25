@@ -1,3 +1,3 @@
 # reading-notes
 
-[SQL](/reading-notes/SQL.md)
+first assigment => [SQL](/reading-notes/SQL.md) 
