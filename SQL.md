@@ -6,7 +6,7 @@ SQL : is a language allow manipulate and transform data from a relational databa
 
 
 ### lesson 1: SELECT statemente is retrieve a specefic columns or all columns of data from a table as I want.
-![](/reading-notes/images/sql/lesson1.jpg)
+![](/images/sql/lesson1.jpg)
 
 ### lesson 2: WHERE put the condition in sql statement (filter data)
 ![](/reading-notes/images/sql/lesson2.jpg)
