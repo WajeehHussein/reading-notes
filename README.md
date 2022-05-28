@@ -1,9 +1,6 @@
 # reading-notes
 
-# Author
 
-## Wajeeh Hussein
-#
 # Code 401 - Advanced Software Development
 
 ## Contents
