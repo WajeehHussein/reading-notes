@@ -1,5 +1,8 @@
 # reading-notes
 
-first prep assigment => [SQL](/reading-notes/SQL.md) 
+SQL Practice assigment => [SQL](/SQL.md) 
 
-second prep assigment => [Terminal](/reading-notes/TERMINAL.md)
+bash Practice assigment => [Terminal](/TERMINAL.md)
+
+typing Practice assigment => [Typing](/Typing.md)
+
