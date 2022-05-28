@@ -11,5 +11,7 @@ bash Practice assigment => [Terminal](/TERMINAL.md)
 
 typing Practice assigment => [Typing](/Typing.md)
 
+Git Practicing => [Git](/Git.md)
+
 readin day1 TDD => [TDD](/TDD.md)
 
