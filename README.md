@@ -15,3 +15,5 @@ Git Practicing => [Git](/Git.md)
 
 reading day1  => [Introduction & TDD](/TDD.md)
 
+reading day2 => [Express REST API](/ExpressRestApi.md)
+
