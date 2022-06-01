@@ -17,3 +17,5 @@ reading day1  => [Introduction & TDD](/TDD.md)
 
 reading day2 => [Express REST API](/ExpressRestApi.md)
 
+reading day3 => [Linked List](/linkedList.md)
+
