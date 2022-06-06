@@ -25,3 +25,5 @@ reading day3 => [Linked List](/linkedList.md)
 
 reading day4 => [sequelize](/sequelize.md)
 
+reading day5 => [sequelize-normalization](/sequelize-normalization.md)
+
