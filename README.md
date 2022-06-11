@@ -17,13 +17,15 @@ Git Practicing => [Git](/Git.md)
 
 ## Reading
 
-reading day1  => [Introduction & TDD](/TDD.md)
+reading day 1  => [Introduction & TDD](/TDD.md)
 
-reading day2 => [Express REST API](/ExpressRestApi.md)
+reading day 2 => [Express REST API](/ExpressRestApi.md)
 
-reading day3 => [Linked List](/linkedList.md)
+reading day 3 => [Linked List](/linkedList.md)
 
-reading day4 => [sequelize](/sequelize.md)
+reading day 4 => [sequelize](/sequelize.md)
 
-reading day5 => [sequelize-normalization](/sequelize-normalization.md)
+reading day 5 => [sequelize-normalization](/sequelize-normalization.md)
+
+reading day 6 => [Authentication](/Authentication.md)
 
