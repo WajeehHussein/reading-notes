@@ -29,3 +29,5 @@ reading day 5 => [sequelize-normalization](/sequelize-normalization.md)
 
 reading day 6 => [Authentication](/Authentication.md)
 
+reading day 7 => [Bearer Authorization](/BearerAuthorization.md)
+
