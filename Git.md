@@ -1,6 +1,7 @@
 # Git Practice
 
-## [Home Page](/README.md) 
+## [Home Page](../README.md)
+
 
 ![](/images/git/level%204-1.jpg)
 ![](/images/git/level4-2.jpg)

@@ -1,6 +1,7 @@
 # Reading Day2
 
-## [Home Page](/README.md) 
+## [Home Page](../README.md)
+
 
 ## Express REST API
 ## ES6 Classes

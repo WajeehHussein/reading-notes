@@ -1,6 +1,6 @@
 # Reading Day 8
 
-## [Home Page](/README.md) 
+## [Home Page](../README.md)
 
 # Access Control (ACL)
 

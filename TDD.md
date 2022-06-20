@@ -1,6 +1,7 @@
 # Reading Day1
 
-## [Home Page](/README.md) 
+## [Home Page](../README.md)
+ 
 ## introduction to Node.js and Express.js
 
 ## Node.js

@@ -1,6 +1,7 @@
 # Reading Day4
 
-## [Home Page](/README.md) 
+## [Home Page](../README.md)
+
 
 ## SQL vs NoSQL Database Differences Explained with few Example DB
 

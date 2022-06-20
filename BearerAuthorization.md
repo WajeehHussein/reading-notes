@@ -1,6 +1,7 @@
 # Reading Day7
 
-## [Home Page](/README.md) 
+## [Home Page](../README.md)
+
 
 # Bearer Authorization
 
