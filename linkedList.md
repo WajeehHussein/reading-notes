@@ -1,6 +1,6 @@
 # Reading Day3
 
-## [Home Page](../README.md)
+## [Home Page](/README.md)
 
 
 ## Big O: Analysis of Algorithm Efficiency

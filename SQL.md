@@ -1,6 +1,6 @@
 # summary
 
-## [Home Page](../README.md)
+## [Home Page](/README.md)
 
 SQL : is a language allow manipulate and transform data from a relational database.
 

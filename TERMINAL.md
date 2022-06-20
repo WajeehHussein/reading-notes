@@ -1,5 +1,5 @@
 # summary
-## [Home Page](../README.md)
+## [Home Page](/README.md)
 
 ## The Command Line
 cli make my programming life easier in a few letters or words I can make many things.

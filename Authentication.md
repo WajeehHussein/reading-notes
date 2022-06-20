@@ -1,5 +1,5 @@
 ## Reading Day 6
-## [Home Page](../README.md)
+## [Home Page](/README.md)
 
 
 # Authentication

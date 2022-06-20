@@ -1,4 +1,4 @@
-## [Home Page](../README.md)
+## [Home Page](/README.md)
 
 
 ## Screen Shots
