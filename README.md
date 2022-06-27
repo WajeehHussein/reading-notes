@@ -39,5 +39,7 @@ reading day 11 => [event driven](/event-driven.md)
 
 reading day 12 => [Socket.io](/socket.md)
 
+reading day 13 => [Socket.io 2](/socket.io.md)
+
 
 
