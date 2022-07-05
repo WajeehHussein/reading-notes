@@ -45,6 +45,8 @@ reading day 14 => [tree](/tree.md)
 
 reading day 15 => [AWS](/AWS.md)
 
+reading day 16 => [AWS 2](/AWS2.md)
+
 
 
 
