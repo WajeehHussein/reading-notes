@@ -47,6 +47,8 @@ reading day 15 => [AWS](/AWS.md)
 
 reading day 16 => [AWS 2](/AWS2.md)
 
+reading day 17 => [AWS 3](/AWS2.md)
+
 
 
 
