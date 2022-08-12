@@ -51,6 +51,8 @@ reading day 17 => [AWS 3](/AWS3.md)
 
 class 26 => [Component Based UI](/UI.md)
 
+class 27 => [use state](/useState.md)
+
 
 
 
