@@ -1,13 +1,12 @@
 # reading-notes
 
-
 # Code 401 - Advanced Software Development
 
 ## Contents
 
 ## prep
 
-SQL Practice assigment => [SQL](/SQL.md) 
+SQL Practice assigment => [SQL](/SQL.md)
 
 bash Practice assigment => [Terminal](/TERMINAL.md)
 
@@ -53,8 +52,6 @@ class 26 => [Component Based UI](/UI.md)
 
 class 27 => [use state](/useState.md)
 
+class 28 => [use Effect](/useEffect.md)
 
-
-
-
-
+class 29 => [use Reduce](/useReduce.md)
