@@ -55,3 +55,5 @@ class 27 => [use state](/useState.md)
 class 28 => [use Effect](/useEffect.md)
 
 class 29 => [use Reduce](/useReduce.md)
+
+class 30 => [Hash Table](/hashTable.md)
